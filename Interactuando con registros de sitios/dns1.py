@@ -1,13 +1,13 @@
 import dns.resolver
 
 def main():
-    consultas 
-    try:
-        a = dns.resolver.query("google.com","MX")
-        for q in a:
-            print(q)
-    except:
-        print("No pude obtener la consulta")
+
+        try:
+            a = dns.resolver.query("google.com","ANY")
+            for q in a:
+                print(q)
+        except:
+            print("No pude obtener la consulta")
 
 
 if __name__ == '__main__':

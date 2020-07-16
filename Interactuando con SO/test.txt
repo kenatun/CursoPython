@@ -1,0 +1,64 @@
+
+Nombre de host:                            DESKTOP-3F2H57M
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versi¢n del sistema operativo:             10.0.19041 N/D Compilaci¢n 19041
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              thecrew_dm@hotmail.com
+Organizaci¢n registrada:                   
+Id. del producto:                          00330-80000-00000-AA796
+Fecha de instalaci¢n original:             1/06/2020, 22:08:11
+Tiempo de arranque del sistema:            15/07/2020, 18:26:05
+Fabricante del sistema:                    Gigabyte Technology Co., Ltd.
+Modelo el sistema:                         H270-Gaming 3
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~3001 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. F6, 24/04/2017
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
+Zona horaria:                              (UTC-05:00) Bogot , Lima, Quito, Rio Branco
+Cantidad total de memoria f¡sica:          8,146 MB
+Memoria f¡sica disponible:                 4,233 MB
+Memoria virtual: tama¤o m ximo:            11,986 MB
+Memoria virtual: disponible:               6,096 MB
+Memoria virtual: en uso:                   5,890 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-3F2H57M
+Revisi¢n(es):                              6 revisi¢n(es) instaladas.
+                                           [01]: KB4552925
+                                           [02]: KB4537759
+                                           [03]: KB4557968
+                                           [04]: KB4560366
+                                           [05]: KB4561600
+                                           [06]: KB4557957
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Killer E2500 Gigabit Ethernet Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.2
+                                                 [02]: fe80::6540:cf29:9230:f33e
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::2c31:592:bc03:c6a0
+                                           [03]: Microsoft KM-TEST Loopback Adapter
+                                                 Nombre de conexi¢n: Npcap Loopback Adapter
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      255.255.255.255
+                                                 Direcciones IP
+                                                 [01]: 169.254.35.206
+                                                 [02]: fe80::9c97:eca6:fd35:23ce
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
